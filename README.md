@@ -1,5 +1,6 @@
 # NextJs Blog Project
 
+Una pequeña muestra de un Blog desarrollado con NextJs - React.
+
 -> https://nextjs-blog-fernandonet-code.vercel.app/
 
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
